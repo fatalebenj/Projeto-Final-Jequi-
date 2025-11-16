@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Stack+Sans+Headline:wght@200..700&display=swap');
+
+body {
+    background-color: rgb(246, 207, 203);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+#cabecalho #link-logo img {
+    width: 75px;
+    height: auto;
+    margin-right: 10px;
+}
+
+#cabecalho #link-logo{
+    display: flex;
+    text-decoration: none;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-family: "Stack Sans Headline", sans-serif;
+    margin-right: 30px;
+}
+
+#cabecalho {
+    background-color: #e72828;
+    margin-top: 30px;
+    padding: 10px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.links-cabecalho {
+    display: flex;
+    text-decoration: none;
+    color: #ffffff;
+    margin-right: 10px;
+    font-family: "Stack Sans Headline", sans-serif;;
+}
+
+.links-cabecalho:hover {
+    text-decoration: underline;
+}
+
+.section {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    padding: 20px;
+    width: 95%;
+    background-color: #e9a6a6;
+}
+
+#rodape {
+    background-color: #e72828;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 15px;
+    bottom: 0;
+    height: 40px;
+    width: 100%;
+    font-family: "Stack Sans Headline", sans-serif;;
+}
