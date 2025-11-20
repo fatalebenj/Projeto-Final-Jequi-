@@ -1,0 +1,20 @@
+.text-justify {
+    font-size: 15pt;
+    text-align: justify;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+#images-historia{
+    display: flex;
+    justify-content: center;
+}
+
+#images-historia img {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 300px;
+    width: auto;
+}   

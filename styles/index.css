@@ -1,0 +1,54 @@
+.links-lista {
+    display: flex;
+    text-decoration: underline;
+
+    margin-bottom: 4px;
+    color: #1f1f25;
+    font-size: 20px;
+    font-family: "Stack Sans Headline", sans-serif;;
+}
+.links-lista:hover {
+    display: flex;
+    margin-bottom: 4px;
+    color: #ffe3e3;
+    font-size: 20px;
+    font-family: "Stack Sans Headline", sans-serif;;
+}
+
+a {
+    color: #1f1f25;
+    justify-content: center;
+}
+
+a:hover {
+    color: #ffe3e3;
+}
+
+.form-label {
+    font-family: "Stack Sans Headline", sans-serif;
+    font-size: 20px;
+    color: #1f1f25;
+}
+
+.text-center {
+    font-size: 15pt;
+    text-align: center;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+#contato, #links-interessantes {
+    width: 45%;
+}
+
+#last-row {
+    display: flex;
+}
+
+#page-cover {
+    display: flex;
+}
+
+#page-cover-text {
+    display: block;
+}

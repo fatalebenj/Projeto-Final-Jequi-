@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Stack+Sans+Headline:wght@200..700&display=swap');
 
 body {
-    background-color: rgb(246, 207, 203);
+    background-color: rgb(255, 241, 239);
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
 }
@@ -48,8 +48,9 @@ body {
     margin-right: auto;
     margin-top: 15px;
     padding: 20px;
+    
     width: 95%;
-    background-color: #e9a6a6;
+    background-color: #f06868;
 }
 
 #rodape {
@@ -60,6 +61,5 @@ body {
     margin-top: 15px;
     bottom: 0;
     height: 40px;
-    width: 100%;
     font-family: "Stack Sans Headline", sans-serif;;
 }
