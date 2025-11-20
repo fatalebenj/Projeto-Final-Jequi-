@@ -63,3 +63,10 @@ body {
     height: 40px;
     font-family: "Stack Sans Headline", sans-serif;;
 }
+
+.text-justify {
+    font-size: 15pt;
+    text-align: justify;
+    margin-left: 120px;
+    margin-right: 120px;
+}
